@@ -4,21 +4,21 @@ Uma parceria da Fatec São José dos Campos - Prof. Jessen Vidal com um uma Empr
 
 # **Disciplinas Integradas**
 
-  **Engenharia de Software II**
+  - **Engenharia de Software II**
   
-  Prof. Cláudio Etelvino de Lima.
+   Prof. Cláudio Etelvino de Lima.
   
-  Prof. José Walmir Gonçalves Duque.
+   Prof. José Walmir Gonçalves Duque.
   
-  **Interação Humano-Computador**
+  - **Interação Humano-Computador**
   
-  Prof. Giuliano Araújo Bertoti.
+   Prof. Giuliano Araújo Bertoti.
   
-  **Programação Orientada à Objetos**
+  - **Programação Orientada à Objetos**
   
-  Prof. Gerson da Penha Neto.
-  
-  **Integrantes do Time**
+   Prof. Gerson da Penha Neto.
+   
+#**Integrantes do Time**
   
     - Renan Vitor Fernandes Mendonça - *Scrum Master (SM)*.
     
@@ -48,11 +48,11 @@ Uma parceria da Fatec São José dos Campos - Prof. Jessen Vidal com um uma Empr
     
       LinkedIn: [Raul Iglesias]()
 
-# **Objetivo**
+#**Objetivo**
 
 Desenvolvimento de uma ferramenta (aplicação desktop) capaz de fazer a carga e a recuperação de arquivos Shapefile (.shp) para o banco de dados PostGre/PostGIS através da execução de rotina ETL (Extract, Transform and Load). A solução deve apresentar interface gráfica intuitiva e funcional, pois será utilizada para a manipulação de arquivos geográficos.
 
-3 **SHAPESWIFT**
+#**SHAPESWIFT**
 
 O Shapeswift é a ferramenta mini ETL adequada, para realizar a busca e a carga dos arquivos Shapefile dentro da estrutura de tabelas do PostGre/PostGIS.
 
