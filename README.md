@@ -53,7 +53,7 @@ Uma parceria da Fatec São José dos Campos - Prof. Jessen Vidal com um uma Empr
 Desenvolvimento de uma ferramenta (aplicação desktop) capaz de fazer a carga e a recuperação de arquivos Shapefile (.shp) para o banco de dados PostGre/PostGIS através da execução de rotina ETL (Extract, Transform and Load). A solução deve apresentar interface gráfica intuitiva e funcional, pois será utilizada para a manipulação de arquivos geográficos.
 
 <p align="center">
-  <img width="600" height="400" src="https://github.com/3pi-fatec-visiona/ShapeGIS---mini-ETL/blob/master/Branch%201/Assets/Fluxo.png">
+  <img width="500" height="400" src="https://github.com/3pi-fatec-visiona/ShapeGIS---mini-ETL/blob/master/Branch%201/Assets/Fluxo.png">
 </p>
 
 # **ShapeGIS**
