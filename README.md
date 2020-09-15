@@ -76,6 +76,10 @@ Dessa forma, a solução tem de ser feita em Java para a Interface Gráfica do U
 
 # **Cards das Sprints**
 
+<p align="center">
+  <img src="https://github.com/3pi-fatec-visiona/ShapeGIS---mini-ETL/blob/master/Branch%201/Assets/Card_Sprint_1.png">
+</p>
+
 # **Cronograma de entregas**
 
 [Branch 1](https://github.com/3pi-fatec-visiona/ETL_Visiona/tree/master/Branch%201) - 07/09/2020 à 20/09/2020;
