@@ -30,7 +30,7 @@ Uma parceria da Fatec São José dos Campos - Prof. Jessen Vidal com um uma Empr
       
    - Guilherme Silva Garcia - **Development Team (DT)**.
     
-     LinkedIn: [Guilherme Silva]()
+     LinkedIn: [Guilherme Silva](https://www.linkedin.com/in/guilherme-garcia-b07187153/)
       
    - Igor Santos Lima - **Development Team (DT)**.
     
