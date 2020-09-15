@@ -22,11 +22,11 @@ Uma parceria da Fatec São José dos Campos - Prof. Jessen Vidal com um uma Empr
   
     - Renan Vitor Fernandes Mendonça - *Scrum Master (SM)*.
     
-      LinkedIn: [Renan Vitor](https://www.linkedin.com/in/renan-vitor-a93814109/)
+      LinkedIn: [Renan Vitor](https://www.linkedin.com/in/renan-vitor-a93814109/).
       
     - Anna Carolina de Oliveira Valle - *Product Owner (PO)*.
     
-      LinkedIn: [Anna Carolina]()
+      LinkedIn: [Anna Carolina](https://www.linkedin.com/in/anna-carolina-372411b3/).
       
     - Guilherme Silva Garcia - *Development Team (DT)*.
     
@@ -42,11 +42,11 @@ Uma parceria da Fatec São José dos Campos - Prof. Jessen Vidal com um uma Empr
       
     - Pedro Oliveira Vilhena de Moraes - *Development Team (DT)*.
     
-      LinkedIn: [Pedro Oliveira]()
+      LinkedIn: [Pedro Oliveira](https://www.linkedin.com/in/pedrovilhena/).
       
     - Raul Santos Iglesias - *Development Team (DT)*.
     
-      LinkedIn: [Raul Iglesias]()
+      LinkedIn: [Raul Iglesias](https://www.linkedin.com/in/raul-iglesias-8010201a1/).
 
 #**Objetivo**
 
