@@ -6,47 +6,47 @@ Uma parceria da Fatec São José dos Campos - Prof. Jessen Vidal com um uma Empr
 
   - **Engenharia de Software II**
   
-        - Prof. Cláudio Etelvino de Lima.
+       - Prof. Cláudio Etelvino de Lima.
         
-        - Prof. José Walmir Gonçalves Duque.
+       - Prof. José Walmir Gonçalves Duque.
   
   - **Interação Humano-Computador**
   
-        - Prof. Giuliano Araújo Bertoti.
+       - Prof. Giuliano Araújo Bertoti.
   
   - **Programação Orientada à Objetos**
   
-        - Prof. Gerson da Penha Neto.
+       - Prof. Gerson da Penha Neto.
    
 # **Integrantes do Time**
   
-    - Renan Vitor Fernandes Mendonça - *Scrum Master (SM)*.
+   - Renan Vitor Fernandes Mendonça - **Scrum Master (SM)**.
     
-      LinkedIn: [Renan Vitor](https://www.linkedin.com/in/renan-vitor-a93814109/).
+     LinkedIn: [Renan Vitor](https://www.linkedin.com/in/renan-vitor-a93814109/).
       
-    - Anna Carolina de Oliveira Valle - *Product Owner (PO)*.
+   - Anna Carolina de Oliveira Valle - **Product Owner (PO)**.
     
-      LinkedIn: [Anna Carolina](https://www.linkedin.com/in/anna-carolina-372411b3/).
+     LinkedIn: [Anna Carolina](https://www.linkedin.com/in/anna-carolina-372411b3/).
       
-    - Guilherme Silva Garcia - *Development Team (DT)*.
+   - Guilherme Silva Garcia - **Development Team (DT)**.
     
-      LinkedIn: [Guilherme Silva]()
+     LinkedIn: [Guilherme Silva]()
       
-    - Igor Santos Lima - *Development Team (DT)*.
+   - Igor Santos Lima - **Development Team (DT)**.
     
-      LinkedIn: [Igor Lima]()
+     LinkedIn: [Igor Lima]()
       
-    - Kleber Apolinario junior - *Development Team (DT)*.
+   - Kleber Apolinario junior - **Development Team (DT)**.
     
-      LinkedIn: [Kleber Apolinario]()
+     LinkedIn: [Kleber Apolinario]()
       
-    - Pedro Oliveira Vilhena de Moraes - *Development Team (DT)*.
+   - Pedro Oliveira Vilhena de Moraes - **Development Team (DT)**.
     
-      LinkedIn: [Pedro Oliveira](https://www.linkedin.com/in/pedrovilhena/).
+     LinkedIn: [Pedro Oliveira](https://www.linkedin.com/in/pedrovilhena/).
       
-    - Raul Santos Iglesias - *Development Team (DT)*.
+   - Raul Santos Iglesias - **Development Team (DT)**.
     
-      LinkedIn: [Raul Iglesias](https://www.linkedin.com/in/raul-iglesias-8010201a1/).
+     LinkedIn: [Raul Iglesias](https://www.linkedin.com/in/raul-iglesias-8010201a1/).
 
 # **Objetivo**
 
