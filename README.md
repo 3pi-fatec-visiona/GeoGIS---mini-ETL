@@ -58,7 +58,7 @@ Desenvolvimento de uma ferramenta (aplicação desktop) capaz de fazer a carga e
 
 # **ShapeGIS**
 
-O ShapeGIS é a plataforma integradora mini ETL adequada para quem trabalha cotidianamente com arquivos e gestão de dados geográficos, permitindo realizar a busca e a carga dos arquivos Shapefile dentro da estrutura de tabelas do PostGre/PostGIS de forma prática, rápida e intuitiva.
+O ShapeGIS é a plataforma integradora mini ETL adequada para quem trabalha cotidianamente com arquivos e gestão de dados geográficos, permitindo realizar a recuperação e a carga dos arquivos Shapefile dentro das estruturas de tabelas do PostGre/PostGIS de forma prática, rápida e intuitiva, através de rotinas DE/PARA.
 
 # **Etapas de Desenvolvimento**
 
