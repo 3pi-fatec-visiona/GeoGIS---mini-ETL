@@ -34,7 +34,7 @@ Uma parceria da Fatec São José dos Campos - Prof. Jessen Vidal com um uma Empr
       
    - Igor Santos Lima - **Development Team (DT)**.
     
-     LinkedIn: [Igor Lima]()
+     LinkedIn: [Igor Lima](https://www.linkedin.com/in/igor-lima-0202b0196/)
       
    - Kleber Apolinario junior - **Development Team (DT)**.
     
