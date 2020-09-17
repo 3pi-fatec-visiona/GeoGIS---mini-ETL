@@ -56,9 +56,9 @@ Desenvolvimento de uma ferramenta (aplicação desktop) capaz de fazer a carga e
   <img width="600" height="300" src="https://github.com/3pi-fatec-visiona/ShapeGIS---mini-ETL/blob/master/Branch%201/Assets/Fluxo.png">
 </p>
 
-# **ShapeGIS**
+# **GeoGIS**
 
-O ShapeGIS é a plataforma integradora mini ETL adequada para quem trabalha cotidianamente com arquivos e gestão de dados geográficos, permitindo realizar a recuperação e a carga dos arquivos Shapefile dentro das estruturas de tabelas do PostGre/PostGIS de forma prática, rápida e intuitiva, através de rotinas DE/PARA.
+O GeoGIS é uma plataforma integradora mini ETL adequada para quem trabalha cotidianamente com arquivos e gestão de dados geográficos, permitindo realizar a recuperação e a carga dos arquivos Shapefile dentro das estruturas de tabelas do PostGre/PostGIS de forma prática, rápida e intuitiva, através de rotinas DE/PARA.
 
 # **Etapas de Desenvolvimento**
 
