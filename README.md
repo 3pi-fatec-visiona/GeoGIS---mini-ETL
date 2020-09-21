@@ -110,7 +110,7 @@ Dessa forma, a solução tem de ser feita em Java para a Interface Gráfica do U
 # **Diagrama de Casos de Uso**
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/3pi-fatec-visiona/GeoGIS---mini-ETL/blob/master/Branch%201/Assets/Diagrama_de_Caso_de_Uso.png">
 </p>
 
 # **Cards das Sprints**
