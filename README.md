@@ -41,7 +41,7 @@ Uma parceria da Fatec São José dos Campos - Prof. Jessen Vidal com um uma Empr
      GitHub: [Igor Lima](https://github.com/IgorSantosL).
       
    - Kleber Apolinario junior - **Development Team (DT)**.
-     GitHub: [Kleber Apolinario]().
+     LinkedIn: [Kleber Apolinario]().GitHub: [Kleber Apolinario]().
       
    - Pedro Oliveira Vilhena de Moraes - **Development Team (DT)**.
     
