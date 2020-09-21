@@ -96,6 +96,8 @@ Essa plataforma, codificada em Java usando a biblioteca WindowBuilder da IDE Ecl
   <img src="https://github.com/3pi-fatec-visiona/GeoGIS---mini-ETL/blob/master/Branch%201/Assets/Tela_Convers%C3%A3o.png">
 </p>
 
+![Alt Text](https://github.com/3pi-fatec-visiona/GeoGIS---mini-ETL/blob/master/Branch%201/Assets/GIF-200920_233947.gif)
+
 # **Etapas de Desenvolvimento**
 
 Para que o desenvolvimento desta ferramenta ocorra de maneira eficiente e organizada, optou-se por fazer uso da metodologia SCRUM, estabelecando papéis definidos a cada integrante dentro do time. Dessa forma foi possível estabelecer reuniões diárias que serviram para moldar o documento de [backlog final](https://github.com/3pi-fatec-visiona/GeoGIS---mini-ETL/blob/master/Branch%201/Documenta%C3%A7%C3%A3o/Backlog%20Final.pdf) do produto, servindo de base para a negociação e validação dos requisitos e sprints junto ao cliente.
