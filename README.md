@@ -98,7 +98,7 @@ Essa plataforma, codificada em Java usando a biblioteca WindowBuilder da IDE Ecl
 
 # **GIF da Aplicação**
 
-  <img width="600" height="250" src="https://github.com/3pi-fatec-visiona/ShapeGIS---mini-ETL/blob/master/Branch%201/Assets/Fluxo.png">
+<img width="600" height="250" src="https://github.com/3pi-fatec-visiona/ShapeGIS---mini-ETL/blob/master/Branch%201/Assets/Fluxo.png">
 
 # **Etapas de Desenvolvimento**
 
