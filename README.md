@@ -96,7 +96,9 @@ Essa plataforma, codificada em Java usando a biblioteca WindowBuilder da IDE Ecl
   <img src="https://github.com/3pi-fatec-visiona/GeoGIS---mini-ETL/blob/master/Branch%201/Assets/Tela_Convers%C3%A3o.png">
 </p>
 
+<p align="center">
 ![Alt Text](https://github.com/3pi-fatec-visiona/GeoGIS---mini-ETL/blob/master/Branch%201/Assets/GIF-200920_233947.gif)
+</p>
 
 # **Etapas de Desenvolvimento**
 
