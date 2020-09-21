@@ -73,6 +73,10 @@ Desenvolver sistema web “mini-ETL”, do inglês Extract Transform Load, com i
    • Banco de Dados Geográficos PostGIS;
    
    • Documentações em pdf;
+   
+<p align="center">
+  <img width="600" height="250" src="https://github.com/3pi-fatec-visiona/ShapeGIS---mini-ETL/blob/master/Branch%201/Assets/Fluxo.png">
+</p>
 
 # **GeoGIS: A praticidade na Integração Shapefile <-> PostGIS**
 
@@ -92,13 +96,8 @@ Essa plataforma, codificada em Java usando a biblioteca WindowBuilder da IDE Ecl
   <img src="https://github.com/3pi-fatec-visiona/GeoGIS---mini-ETL/blob/master/Branch%201/Assets/Tela_Convers%C3%A3o.png">
 </p>
 
-<p align="center">
+
 ![Alt Text](https://github.com/3pi-fatec-visiona/GeoGIS---mini-ETL/blob/master/Branch%201/Assets/GIF-200920_233947.gif)
-</p>
-
-# **GIF da Aplicação**
-
-<img width="600" height="250" src="https://github.com/3pi-fatec-visiona/ShapeGIS---mini-ETL/blob/master/Branch%201/Assets/Fluxo.png">
 
 # **Etapas de Desenvolvimento**
 
