@@ -86,7 +86,7 @@ Desenvolver sistema web “mini-ETL”, do inglês Extract Transform Load, com i
 
 O GeoGIS é uma plataforma integradora mini ETL adequada para quem trabalha cotidianamente com arquivos Shapefile e gestão de dados geográficos, permitindo realizar a busca e a carga dos arquivos Shapefile dentro das estruturas de tabelas do PostGre/PostGIS de forma prática, rápida e intuitiva, através de rotinas a serem escolhidas nas telas da aplicação.
 
-Essa plataforma trabalha de acordo com a aplicação própria fornecida pelo PostGRE/PostGIS, o PostGIS Shapefile Import/Export Manager, de forma a garantir maior confiabilidade na carga e busca de arquivos (execução de queries) dentro do banco de dados;
+Essa plataforma, codificada em Java usando a biblioteca WindowBuilder da IDE Eclipse para interface gráfica, trabalha em conexão direta com a aplicação própria fornecida pelo PostGRE/PostGIS, o PostGIS Shapefile Import/Export Manager, de forma a garantir maior confiabilidade na carga e busca de arquivos (execução de queries) dentro do banco de dados;
 
 <p align="center">
   <img src="https://github.com/3pi-fatec-visiona/GeoGIS---mini-ETL/blob/master/Branch%201/Assets/Tela_Login_Preenchido.png">
