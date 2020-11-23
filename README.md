@@ -30,10 +30,7 @@ Uma parceria da Fatec São José dos Campos - Prof. Jessen Vidal com um uma Empr
      LinkedIn: [Anna Carolina](https://www.linkedin.com/in/anna-carolina-372411b3/).
      GitHub: [Anna Carolina](https://github.com/AnnaCMendes).
       
-   - Guilherme Silva Garcia - **Development Team (DT)**.
-    
-     LinkedIn: [Guilherme Silva](https://www.linkedin.com/in/guilherme-garcia-b07187153/).
-     GitHub: [Guilherme Silva](https://github.com/guilherme4garcia).
+ 
       
    - Igor Santos Lima - **Development Team (DT)**.
     
